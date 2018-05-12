@@ -1,0 +1,40 @@
+_repo: The-Lonely-Way-Intermezzo-Countess-MizzieThree-Plays_29745
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Björkman, Edwin
+    aliases:
+    - Björkman, Edwin August
+    - Bjorkman, Edwin
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '1677'
+    url: http://www.gutenberg.org/2009/agents/1677
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schnitzler, Arthur
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '3010'
+    url: http://www.gutenberg.org/2009/agents/3010
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schnitzler
+description: ''
+gutenberg_issued: '2009-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29745'
+  lccn: '15013239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German drama -- Translations into English'
+title: 'The Lonely Way—Intermezzo—Countess Mizzie
+
+  Three Plays'
+url: http://www.gutenberg.org/ebooks/29745
